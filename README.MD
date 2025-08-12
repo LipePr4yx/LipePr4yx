@@ -52,10 +52,7 @@
 
 # 🖥 Tecnologias e ferramentas
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt= "IMG Indisponivel" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="IMG Indisponivel" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="IMG Indisponivel" width="55">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="IMG Indisponivel" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt= "IMG Indisponivel" width="55"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="IMG Indisponivel" width="55"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" alt="IMG Indisponivel" width="55"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="IMG Indisponivel" width="55"/>
 
 ***
 
