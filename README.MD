@@ -28,8 +28,7 @@
 <a href="https://github.com/LipePr4yx">
 <img src="https://github.githubassets.com/assets/apple-touch-icon-180x180-a80b8e11abe2.png" alt="IMG Indisponivel" width="55"/>
 <a href="https://www.youtube.com/watch?v=JDXfqN3VKhc">
-<img src="https://encrypted-tbn0.gstatic.com/images?
-q=tbn:ANd9GcSiqaeGD7wlYnir2DQj9n4Mxz8M6oaSLlnzhA&s" alt="IMG Indisponivel" width="55"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="IMG Indisponivel" width="55"/>
 </a>
 
 ***
