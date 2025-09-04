@@ -30,6 +30,7 @@
 <img src="https://github.githubassets.com/assets/apple-touch-icon-180x180-a80b8e11abe2.png" alt="IMG Indisponivel" width="55"/>
 
 ***
+
 <img src="https://media.tenor.com/_10HmeCFIYwAAAAM/gengar.gif" alt="IMG Indisponivel" width="155" style="float: right; margin-right: 10px">
 
 # 🗣 Idiomas
