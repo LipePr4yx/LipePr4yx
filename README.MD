@@ -31,7 +31,7 @@
 
 ***
 
-<img src="https://media.tenor.com/_10HmeCFIYwAAAAM/gengar.gif" alt="IMG Indisponivel" width="155"/>
+<img src="https://i.pinimg.com/originals/10/7a/9f/107a9fbe66c8680fc8f0daf11b032225.gif" alt="IMG Indisponivel" width="155"/>
 
 # 🗣 Idiomas
 
