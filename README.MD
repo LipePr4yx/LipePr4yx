@@ -22,14 +22,14 @@
 
 ***
 
-# 👾📱Redes Sociais
+# 👾📱 Redes Sociais
 
 <a href="https://www.instagram.com/maximuskkkj/"/>
 <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/415/small/instagram-logo-instagram-icon-transparent-free-png.png" alt="IMG Indisponivel" width="60"/>
 <a href="https://github.com/LipePr4yx"/>
 <img src="https://github.githubassets.com/assets/apple-touch-icon-180x180-a80b8e11abe2.png" alt="IMG Indisponivel" width="55" />
 
-***
+
 
 <img src="https://i.pinimg.com/originals/10/7a/9f/107a9fbe66c8680fc8f0daf11b032225.gif" alt="IMG Indisponivel" width="200" style="float: right; margin-right: 10px"/>
 
