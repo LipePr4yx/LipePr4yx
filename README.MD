@@ -17,7 +17,7 @@
 
 * CPF: 666.666.666-66
 
-* E-mail: maximusdosprograma@devs.com
+* E-mail: felipe.m.rodrigues11@aluno.senai.br
 
 ***
 
@@ -27,9 +27,6 @@
 <img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/415/small/instagram-logo-instagram-icon-transparent-free-png.png" alt="IMG Indisponivel" width="60"/>
 <a href="https://github.com/LipePr4yx">
 <img src="https://github.githubassets.com/assets/apple-touch-icon-180x180-a80b8e11abe2.png" alt="IMG Indisponivel" width="55"/>
-<a href="https://www.youtube.com/watch?v=JDXfqN3VKhc">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/2560px-YouTube_full-color_icon_%282017%29.svg.png" alt="IMG Indisponivel" width="55"/>
-</a>
 
 ***
 <img src="https://media.tenor.com/_10HmeCFIYwAAAAM/gengar.gif" alt="IMG Indisponivel" width="155" style="float: right; margin-right: 10px">
@@ -49,6 +46,15 @@
 * Cursando Ensino Técnico DEV
 
 ***
+
+
+#📋📎 Certificações
+
+* Certificado Fundamentos de Python
+* Certificado Implantação de serviçoes em nuvem - AWS Cloud Practitioner Foundational
+* Certificado Fluência - Fundamentos da inteligência Artificial
+* Certificado Inglês Avançado - Wizard
+* Certificado Curso Hardware e Robótica - MicroCamp
 
 # 🖥 Tecnologias e ferramentas
 
