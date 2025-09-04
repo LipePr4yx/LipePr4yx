@@ -33,7 +33,7 @@
 
 ***
 
-<img src="https://media.tenor.com/eq1_t2J2iJQAAAAe/pokemon-dancing.png" alt="IMG Indisponivel" width="111" style="float: right; margin-right: 10px" />
+<img src="https://media.tenor.com/eq1_t2J2iJQAAAAe/pokemon-dancing.png" alt="IMG Indisponivel" width="155" style="float: right; margin-right: 10px" />
 
 # 🗣 Idiomas
 
