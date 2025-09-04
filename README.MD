@@ -33,6 +33,7 @@
 
 <img src="https://media.tenor.com/_10HmeCFIYwAAAAM/gengar.gif" alt="IMG Indisponivel" width="155"/>
 
+
 # 🗣 Idiomas
 
 * Português: Nativo
