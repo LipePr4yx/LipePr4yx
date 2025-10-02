@@ -39,8 +39,8 @@
 
 * Português: Nativo
 * Inglês: Avançado
-* Latim: Básico
-* Espanhol: Básico
+* Latim: Básico (Duolingo)
+* Espanhol: Básico (Duolingo)
 
 ***
 
